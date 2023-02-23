@@ -23,9 +23,6 @@ def findEncoding(images):
     return encode_list
 
 encodeListKnown = findEncoding(images)
-# print('Encoding complete')
-# print(Names)
-# print(mylist)
 cap = cv2.VideoCapture(0)
 while True:
     success, img = cap.read()
