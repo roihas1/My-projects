@@ -1,7 +1,7 @@
-#My projects
+# My projects
 This repositoriy includes a few projects that I did through my Software and Information System Engineering degree.
 
-##Projects
+## Projects
 List of projects in the repository:
 
 Search Engine: 
