@@ -9,7 +9,7 @@ List of projects in the repository:
     Additionally, the OpenAI API is integrated to provide a summary of each driver.
     MySQL is used to store summaries and information retrieved from the database to save runtime.
     The structure -> In the F1 folder their 2 folders, one for the backend and one for the frontend, inside them, there is the src folder with the code files.
-
+    Still in progress...
 
 * Search Engine: 
   This project is a Flask app based application that gets a query and returns several Wikipedia related website names.
