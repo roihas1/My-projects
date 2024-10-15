@@ -3,11 +3,20 @@ This repository includes a few projects I did through my Software and Informatio
 
 ## Projects
 List of projects in the repository:
+
+* Sport-event-management:
+    A NestJS backend with a React client for managing sports events. Features include:
+    User Roles: Regular users and event organizers (admins).
+    Event Management: Create, update, and manage events.
+    Team Registration: Register and manage teams.
+    Match Scheduling: Auto-generate, view, and manage schedules, including tournament bracket scheduling.
+    Authentication: Secured with JWT for user login and access control.
+  
 * F1 website:
     This Website is built with Vue on the client side and NestJS on the server side. The website contains information about Formula 1 drivers and tracks from around the world.
     It uses an open API to retrieve information about drivers and tracks.
     Additionally, the OpenAI API is integrated to provide a summary of each driver.
-    MySQL is used to store summaries and information retrieved from the database to save runtime.
+    MySQL stores summaries and information retrieved from the database to save runtime.
     The structure -> In the F1 folder their 2 folders, one for the backend and one for the frontend, inside them, there is the src folder with the code files.
     Still in progress...
 
